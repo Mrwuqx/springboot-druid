@@ -1,0 +1,16 @@
+package cn.ak47007.springbootdruid;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * @author Administrator
+ */
+@SpringBootApplication
+public class SpringbootDruidApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootDruidApplication.class, args);
+    }
+
+}
