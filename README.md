@@ -29,7 +29,7 @@ GitHub:<https://github.com/alibaba/druid>
 ```
 ***2.编写DruidConfig类***
 
-```
+```java
 package cn.ak47007.springbootdruid.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
